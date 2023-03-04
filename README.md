@@ -1,0 +1,2 @@
+# Exquisitecountdownfireworksdisplaysinglepage-HTML
+倒计时烟花表白页HTML，将源码解压到服务器，修改内容分别在index.html跟js文件夹里面的shape-shifter.js里面，其实如果内容添加的字数多只有PC端显示正常，字数多了手机端显示有点不友好，有能力的自己修改一下css
